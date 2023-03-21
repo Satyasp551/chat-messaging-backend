@@ -49,6 +49,7 @@
     "typescript-transform-paths": "^3.4.6"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/bull": "^4.10.0",
     "@types/bunyan": "^1.8.8",
     "@types/compression": "^1.7.2",
